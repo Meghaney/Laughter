@@ -1,5 +1,5 @@
 # Laughter is the best medicine
-<h6 font-style:italic;>Barkat Meghaney, my late elder brother, wrote jokes.  I compiled them and published a book in his name as author, titled as "Laughter is the best Medicine".</h6>
+<h6><i>Barkat Meghaney, my late elder brother, wrote jokes.  I compiled them and published a book in his name as author, titled as "Laughter is the best Medicine".</i></h6>
 
 When was the last time you had really a good laugh?  Laughter is the best medicine.  It is a reminder to everybody that as children, we used to laugh hundreds of times a day, but as adults, life tends to be more serious resulting in infrequent laughter. 
 
